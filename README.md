@@ -1,7 +1,5 @@
 # Image-Classification-Captioning
 
-# VisionTransformer-Captioning  
-
 The project (that I completed for my CMPUT 328 class) focused on two tasks:  
 
 1. **Classification with Vision Transformer (ViT)** on the CIFAR-10 dataset.  
