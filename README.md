@@ -43,13 +43,13 @@ VisionTransformer-Captioning
 - **Task 2**: The image captioning model got the BLEU score of 0.07% on the validation dataset, ensuring readiness for the hidden test set.  
 
 #### Example 1  
-![Example 1](result_1.jpg)  
+![Example 1](result_1.png)  
 *Caption generated: "A little girl in a pink bathing suit is splashing in a sprinkler. "*
 
 #### Example 2  
-![Example 2](result_2.jpg)  
+![Example 2](result_2.png)  
 *Caption generated: "A little girl in a pink dress is standing in a field of flowers."*
 
 #### Example 3  
-![Example 3](result_3.jpg)  
+![Example 3](result_3.png)  
 *Caption: "A child in a red jacket is shoveling snow."*  
